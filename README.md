@@ -24,15 +24,15 @@ https://github.com/powerline/fonts/blob/master/Meslo%20Dotted/Meslo%20LG%20S%20D
 
 # VsCode
 ## Extensions
-Import Cost
-Auto Rename Tag
-Cloudformation linter
-ESLint
-Gitlens
-Prettier
-Tailwind CSS IntelliSense
-Trailing Spaces
-vs-code-icons
+- Import Cost
+- Auto Rename Tag
+- Cloudformation linter
+- ESLint
+- Gitlens
+- Prettier
+- Tailwind CSS IntelliSense
+- Trailing Spaces
+- vs-code-icons
 
 ## Theme
 Noctis
