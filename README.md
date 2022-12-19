@@ -16,3 +16,5 @@ Attached here :
 
 ## Font 
 https://github.com/powerline/fonts/blob/master/Meslo%20Dotted/Meslo%20LG%20S%20DZ%20Regular%20for%20Powerline.ttf
+
+# VSCODE
