@@ -1,11 +1,10 @@
 # Homebrew 
 ## Formulas
-1. Visual Studio Code
-2. nvm
-3. zsh
-4. git-remote-codecommit
-5. visual-studio-code
-
+- Visual Studio Code
+- nvm
+- zsh
+- git-remote-codecommit
+- visual-studio-code
 
 # Zsh 
 ## Installation
@@ -17,7 +16,7 @@ upgrade_oh_my_zsh
 zsh-autosuggestions : git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 
 ## Colors 
-Attached here : 
+Attached here : [profile](default.json)
 
 ## Font 
 https://github.com/powerline/fonts/blob/master/Meslo%20Dotted/Meslo%20LG%20S%20DZ%20Regular%20for%20Powerline.ttf
