@@ -5,6 +5,7 @@
 - zsh
 - git-remote-codecommit
 - visual-studio-code
+- cfn-lint
 
 # Zsh 
 ## Installation
