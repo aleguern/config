@@ -1,5 +1,7 @@
-# Homebrew 
+# Homebrew
+
 ## Formulas
+
 - Visual Studio Code
 - nvm
 - zsh
@@ -7,35 +9,30 @@
 - visual-studio-code
 - cfn-lint
 
-# Zsh 
+# Zsh
+
 ## Installation
+
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 zsh --version
 upgrade_oh_my_zsh
 ```
 
-## Plugins 
-#### zsh-autosuggestions
-```git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions```
+## Plugins
 
-## Colors 
+#### zsh-autosuggestions
+
+`git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
+
+## Colors
+
 [profile](default.json)
 
-## Font 
+## Font
+
 [Meslo Powerline](https://github.com/powerline/fonts/blob/master/Meslo%20Dotted/Meslo%20LG%20S%20DZ%20Regular%20for%20Powerline.ttf)
 
 # VsCode
-## Extensions
-- Import Cost
-- Auto Rename Tag
-- Cloudformation linter
-- ESLint
-- Gitlens
-- Prettier
-- Tailwind CSS IntelliSense
-- Trailing Spaces
-- vs-code-icons
 
-## Theme
-Noctis
+[profile](profile.code-profile)
