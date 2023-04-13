@@ -2,9 +2,10 @@
 
 ## Formulas
 
-- Visual Studio Code
 - nvm
 - zsh
+- node
+- yarn
 - git-remote-codecommit
 - visual-studio-code
 - cfn-lint
